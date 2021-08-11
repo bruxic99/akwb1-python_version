@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 
 
-class akwb2:
+class akwb1:
     boolean = {'adjust': False, 'linear': False, 'multigraph': False}
     biggest = 0
     dictionary = {}
